@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyGameAssets/LibBridge/Scenes/title.unity
     guid: d6c900f66625360499f1904f1138d5cf
+  - enabled: 1
+    path: Assets/MyGameAssets/Scenes/main.unity
+    guid: bc451452f80ed6449a37cd668dcfc001
   m_configObjects: {}
